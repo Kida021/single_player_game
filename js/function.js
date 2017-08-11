@@ -176,9 +176,6 @@ for(var i =0; i < 24; i++){
     }
 }
 Maps.current = Maps('field','img/map_sprite.png',array2d);
-
-
-
 player = play;
 startNewGame();
 // frame update

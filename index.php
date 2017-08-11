@@ -27,7 +27,6 @@
             </div>
             
         </div>
-        <script src="js/Entities.js"></script>
         <script src="js/function.js"></script>
                 
     </body>

@@ -545,4 +545,3 @@ Bullet.update = function(){
         }
     }
 };
-
